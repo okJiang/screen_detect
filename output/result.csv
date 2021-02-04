@@ -1,0 +1,6 @@
+file_name,has_wenjian,has_bianji,has_geshi,has_chakan,has_bangzhu,has_x,has_tubiao
+mask_all,0,0,0,0,0,0,0
+no_tubiao,1,1,1,1,1,1,0
+no_wenjian,0,1,1,1,1,1,1
+raw,1,1,1,1,1,1,1
+raw_long,1,1,1,1,1,0,1
